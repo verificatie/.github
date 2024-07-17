@@ -28,10 +28,10 @@ Volg deze stappen om de app lokaal te installeren:
 
 ```bash
 # Clone de repository
-git clone https://github.com/gebruikersnaam/verificatie-app.git
+git clone https://github.com/verificatie/verificatieApp_Android_and_ios.git
 
 # Navigeer naar de map
-cd verificatie-app
+cd verificatieApp_Android_and_ios.git
 
 # Installeer afhankelijkheden
 npm install
