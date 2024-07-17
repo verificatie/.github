@@ -1,37 +1,38 @@
 # 🇳🇱 **Nederlandse Verificatie App | OS Autoriteit**
 
-Welkom bij de **Nederlandse Verificatie App**, een krachtige **open source** oplossing voor digitale identiteit en verificatie. Wij maken het eenvoudig en toegankelijk om je identiteit te bevestigen in de digitale wereld.
+Welcome to the **Verificatie App**, a powerful **open source** solution for digital identity and verification. We make it easy and accessible to confirm your identity in the digital world.
 
 ---
 
-## 🚀 **Kenmerken**
+## 🚀 **Features**
 
-- **Snel en Veilig**: Verifieer je identiteit in enkele stappen.
-- **Open Source**: Transparantie door samenwerking met de community.
-- **Betrouwbare Omgeving**: Geschikt voor zowel particulieren als organisaties.
-
----
-
-## 🛠️ **Hoe het Werkt**
-
-Met de **Verificatie App** volg je eenvoudig deze stappen:
-
-1. **Download de app**
-2. **Registreer je account**
-3. **Volg de verificatiestappen**
+- **Fast and Secure**: Verify your identity in just a few steps.
+- **Open Source**: Transparency through community collaboration.
+- **Reliable Environment**: Suitable for both individuals and organizations.
 
 ---
 
-## 📦 **Installatie**
+## 🛠️ **How It Works**
 
-Volg deze stappen om de app lokaal te installeren:
+With the **Verification App**, simply follow these steps:
+
+1. **Download the app**
+2. **Register your account**
+3. **Follow the verification steps**
+
+---
+
+## 📦 **Installation**
+
+Follow these steps to install the app locally:
 
 ```bash
-# Clone de repository
-git clone https://github.com/verificatie/verificatieApp_Android_and_ios.git
+# Clone the repository
+git clone https://github.com/username/verification-app.git
 
-# Navigeer naar de map
-cd verificatieApp_Android_and_ios.git
+# Navigate to the directory
+cd verification-app
 
-# Installeer afhankelijkheden
+# Install dependencies
 npm install
+
