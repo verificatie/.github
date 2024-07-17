@@ -28,10 +28,10 @@ Follow these steps to install the app locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/verification-app.git
+git clone https://github.com/verificatie/verificatieApp_Android_and_ios
 
 # Navigate to the directory
-cd verification-app
+cd verificatieApp_Android_and_ios
 
 # Install dependencies
 npm install
