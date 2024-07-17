@@ -1,12 +1,37 @@
-## Hi there 👋
+# 🇳🇱 **Nederlandse Verificatie App | OS Autoriteit**
 
-<!--
+Welkom bij de **Nederlandse Verificatie App**, een krachtige **open source** oplossing voor digitale identiteit en verificatie. Wij maken het eenvoudig en toegankelijk om je identiteit te bevestigen in de digitale wereld.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 **Kenmerken**
+
+- **Snel en Veilig**: Verifieer je identiteit in enkele stappen.
+- **Open Source**: Transparantie door samenwerking met de community.
+- **Betrouwbare Omgeving**: Geschikt voor zowel particulieren als organisaties.
+
+---
+
+## 🛠️ **Hoe het Werkt**
+
+Met de **Verificatie App** volg je eenvoudig deze stappen:
+
+1. **Download de app**
+2. **Registreer je account**
+3. **Volg de verificatiestappen**
+
+---
+
+## 📦 **Installatie**
+
+Volg deze stappen om de app lokaal te installeren:
+
+```bash
+# Clone de repository
+git clone https://github.com/gebruikersnaam/verificatie-app.git
+
+# Navigeer naar de map
+cd verificatie-app
+
+# Installeer afhankelijkheden
+npm install
